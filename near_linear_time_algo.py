@@ -85,6 +85,6 @@ def approx_align(s1, s2):
     return f
 
 
-app = approx_align(influenza, monkeypox)
+# app = approx_align(influenza, monkeypox)
 
-get_approximate_distance(app, influenza, monkeypox)
+# get_approximate_distance(app, influenza, monkeypox)
